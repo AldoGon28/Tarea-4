@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\bin\Debug\Factorial 3.0.exe.config
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\bin\Debug\Factorial 3.0.exe
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\bin\Debug\Factorial 3.0.pdb
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\bin\Debug\Factorial 3.0.xml
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\obj\Debug\Factorial 3.0.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\obj\Debug\Factorial 3.0.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\obj\Debug\Factorial_3._0.Resources.resources
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\obj\Debug\Factorial 3.0.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\obj\Debug\Factorial 3.0.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\obj\Debug\Factorial 3.0.exe
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\obj\Debug\Factorial 3.0.xml
+C:\Users\Usuario\Desktop\1er Semestre 2022\9.Progra\1. Práctica\Factorial 3.0\obj\Debug\Factorial 3.0.pdb
